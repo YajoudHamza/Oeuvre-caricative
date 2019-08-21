@@ -1,0 +1,7 @@
+body {
+    background-image: url(logo_medecins_sans_frontieres.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: top right; 
+    background-color: chocolate
+}
